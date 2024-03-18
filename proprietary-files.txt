@@ -1,0 +1,9 @@
+# All unpinned blobs below are extracted from pissarro Miui 14.0.8.0 Global
+
+product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture,Camera,Camera2,GoogleCameraGo|a92c47ea98516431063d54f85d79d6535a32725f
+system/etc/public.libraries-xiaomi.txt
+system/lib64/libcamera_algoup_jni.xiaomi.so:system/lib64/libcamera_algoup_jni.xiaomi.so
+system/lib64/libcamera_mianode_jni.xiaomi.so:system/lib64/libcamera_mianode_jni.xiaomi.so
+system/lib64/libcamera_ispinterface_jni.xiaomi.so:system/lib64/libcamera_ispinterface_jni.xiaomi.so
+system/lib64/libmtkisp_metadata_sys.so:system/lib64/libmtkisp_metadata_sys.so
+system/lib64/vendor.mediatek.hardware.camera.isphal@1.0.so:system/lib64/vendor.mediatek.hardware.camera.isphal@1.0.so
